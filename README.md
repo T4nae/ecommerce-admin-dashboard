@@ -26,7 +26,7 @@ The project is built using Node.js and can be installed and run locally for deve
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/username/project.git`
+1. Clone the repository: `git clone https://github.com/T4nae/ecommerce-admin-dashboard`
 2. Navigate to the project directory: `cd project`
 3. Install dependencies: `npm install`
 
