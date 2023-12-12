@@ -1,4 +1,4 @@
-# Project Name
+# Ecommerce Admin Dashboard
 
 ## Description
 
